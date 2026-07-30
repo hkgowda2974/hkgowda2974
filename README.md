@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Hemanth Kumar 👋
 
-<!--
-**hkgowda2974/hkgowda2974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer | Software Developer | Computer Science Graduate
 
-Here are some ideas to get you started:
+I recently completed an AI & Cloud Computing Internship at SuprMentr Technologies and enjoy building intelligent applications using Machine Learning, Generative AI, Computer Vision, and Backend Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+• Machine Learning
+• Generative AI
+• RAG Systems
+• AI Agents
+• Backend APIs
+
+## Tech Stack
+
+Python
+Java
+C
+TensorFlow
+PyTorch
+Scikit-learn
+Flask
+React
+MySQL
+Git
+
+## Featured Projects
+
+🚀 RunSketch
+🤖 AI Career Assistant
+📚 Knowledge Base Agent
+🧠 ML Classification Models
+
+📫 Email:
+hkgowda2974@gmail.com
+
+Open to AI/ML, Backend and Software Engineering opportunities.
