@@ -131,13 +131,6 @@ Passionate about building intelligent, scalable, and data-driven applications us
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hkgowda2974&theme=tokyonight&hide_border=true" />
-</p>
----
-
 # 📫 Connect With Me
 
 <p align="center">
@@ -155,12 +148,10 @@ Passionate about building intelligent, scalable, and data-driven applications us
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/hkgowda2974/hkgowda2974/blob/output/github-contribution-grid-snake.svg)
-</a>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hkgowda2974/hkgowda2974/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
----
 
 ## 💡 Quote
 
