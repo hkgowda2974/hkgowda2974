@@ -26,11 +26,7 @@ Passionate about building intelligent, scalable, and data-driven applications us
 - 📫 Reach me at **hkgowda2974@gmail.com**
 
 ---
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hkgowda2974&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
 ---
 ## 🚀 Tech Stack
 
